@@ -13,7 +13,7 @@ I'm a backend developer based in Berlin, Germany, working at an E-commerce compa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant092&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='[https://api.memegen.link/images/buzz/memes/memes_everywhere.webp ]([https://memer-new.vercel.app](https://api.memegen.link/images/buzz/memes/memes_everywhere.webp ))/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prashant092&icon=0&color=0)](https://visitcount.itsvg.in)
